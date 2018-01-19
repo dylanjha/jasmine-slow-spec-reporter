@@ -1,6 +1,6 @@
 {
   "name": "jasmine-slow-spec-reporter",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Slow test reporter for jasmine",
   "main": "index.js",
   "license": "MIT",
