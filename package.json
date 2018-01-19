@@ -4,6 +4,20 @@
   "description": "Slow test reporter for jasmine",
   "main": "index.js",
   "license": "MIT",
+  "author": "Dylan Jhaveri <dylanjhaveri@gmail.com> (https://www.twitter.com/dylanjha)",
+  "repository": {
+    "url": "git+ssh://git@github.com/dylanjha/jasmine-slow-reporter.git",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/dylanjha/jasmine-slow-reporter/issues"
+  },
+  "homepage": "https://github.com/dylanjha/jasmine-slow-reporter#readme",
+  "keywords": [
+    "jasmine",
+    "slow",
+    "reporter"
+  ],
   "dependencies": {
     "chalk": "^2.3.0"
   },
