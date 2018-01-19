@@ -1,0 +1,16 @@
+{
+  "name": "jasmine-slow-reporter",
+  "version": "0.0.1",
+  "description": "Slow test reporter for jasmine",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.0"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "devDependencies": {
+    "jasmine": "^2.9.0"
+  }
+}
