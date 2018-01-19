@@ -1,4 +1,4 @@
-# Jasmine Slow Test Reporter
+# Jasmine Slow Spec Reporter
 
 When you run your test suite, have jasmine output the slow tests.
 
@@ -10,16 +10,16 @@ a test suite that takes a long time to run and that discourages developers from 
 ## Usage
 
 ```
-yarn add jasmine-slow-reporter --dev
+yarn add jasmine-slow-spec-reporter --dev
 ```
 
 OR
 
 ```
-npm install jasmine-slow-reporter --save-dev
+npm install jasmine-slow-spec-reporter --save-dev
 ```
 
 ```javascript
-const SlowReporter = require('jasmine-slow-reporter')
-jasmine.addReporter(new SlowReporter())
+const SlowSpecReporter = require('jasmine-slow-spec-reporter')
+jasmine.addReporter(new SlowSpecReporter())
 ```
